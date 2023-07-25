@@ -22,7 +22,7 @@ Um formulário personalizado com a face do personagem "Finn", do desenho animado
 ## 📋 Descrição
 
 Este é um projeto de um formulário personalizado com a face do personagem "Finn", do desenho animado "Hora de Aventura".
-Esse projeto foi disponibilizado na primeira aula prática de position do curso "Vai na Web" e tinha como proposta a utilização do position junto com todas as outras técnicas aprendidas para aplicar posicionamentos, espaçamentos e dimensões únicas. O modelo a ser seguido foi apresentado na plataforma de design "Figma".
+Esse projeto foi disponibilizado na primeira aula prática de position do módulo 01 do curso de front-end do "Vai na Web" e tinha como proposta a utilização do position junto com todas as outras técnicas aprendidas para aplicar posicionamentos, espaçamentos e dimensões únicas. O modelo a ser seguido foi apresentado na plataforma de design "Figma".
 
 ### 🚀 Funcionalidades
 
@@ -39,7 +39,9 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
 ### 📸 Prévia
 
-![Desktop Design](./img/desktop-index.png)
+<div align="center">
+  <img src="./img/desktop-index.png">
+</div>
 
 ## ⚙️ Construção
 
